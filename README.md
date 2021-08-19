@@ -1,9 +1,10 @@
-# check-cpp-version</br></br></br>
+# check-cpp-version<br>
 
-run these commands to check c++ version:</br></br>
+Clone the repo and execute these commands to check default c++ version:<br><br>
 
-git init</br>
+git clone https://github.com/tejasc0/check-cpp-version.git<br>
 
-git clone https://github.com/tejasc0/check-cpp-version.git</br>
+Linux/MacOS:<br>
+g++ check.cpp<br>
 
-g++ check.cpp
+./check
